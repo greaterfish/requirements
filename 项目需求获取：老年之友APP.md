@@ -66,9 +66,7 @@
 ##### 1. 图形化的模型
 
 <font color="red">**整体模型**</font>
-
-![目标精化草图](https://images.gitee.com/uploads/images/2020/1216/113828_4e584ae9_8381363.jpeg)
-
+![目标精化草图](https://images.gitee.com/uploads/images/2020/1216/121002_92f1a7e3_8381363.jpeg)
 <font color="red">**局部模型**</font>
 
 【图片】
