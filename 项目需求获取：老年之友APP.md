@@ -67,9 +67,15 @@
 
 <font color="red">**整体模型**</font>
 ![目标精化草图](https://images.gitee.com/uploads/images/2020/1216/121002_92f1a7e3_8381363.jpeg)
-<font color="red">**局部模型**</font>
 
-【图片】
+<font color="red">**局部模型**</font>
+![纽带](https://images.gitee.com/uploads/images/2020/1216/201703_319c256a_8381363.png "增强纽带.png")
+
+![兴趣](https://images.gitee.com/uploads/images/2020/1216/201612_ef360bc5_8381363.png "兴趣.png")
+
+![娱乐](https://images.gitee.com/uploads/images/2020/1216/201623_3cb9490e_8381363.png "娱乐.png")
+
+![互联网教程](https://images.gitee.com/uploads/images/2020/1216/201730_2e542d7a_8381363.png "互联网教程.png")
 
 ##### 2. 文字化的模型
 
@@ -128,11 +134,14 @@
     2. 提供符合老年人学习能力的教程
 
 #### 目标协作
-
+![目标精化草图+协作冲突](https://images.gitee.com/uploads/images/2020/1216/201204_75c01c18_8381363.jpeg "目标精化草图+协作冲突.jpg")
 ##### 1. 协作
-
+![丰富娱乐活动-娱乐板块](https://images.gitee.com/uploads/images/2020/1216/202713_17281b84_8381363.png "丰富娱乐活动-娱乐板块.png")
+![人工客服-销售平台](https://images.gitee.com/uploads/images/2020/1216/202728_31f77bee_8381363.png "人工客服-销售平台.png")
+![人工客服-兴趣课](https://images.gitee.com/uploads/images/2020/1216/202744_e0f3b6c4_8381363.png "人工客服-兴趣课.png")
 ##### 2. 冲突
-
+![自由发帖x社区监管](https://images.gitee.com/uploads/images/2020/1216/202759_2181e13e_8381363.png "自由发帖x社区监管.png")
+![丰富娱乐活动x易用性](https://images.gitee.com/uploads/images/2020/1216/202653_9540d080_8381363.png "丰富娱乐活动x易用性.png")
 #### 目标实现
 
 ##### 1. 主体分配
