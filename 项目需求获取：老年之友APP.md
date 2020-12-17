@@ -183,11 +183,55 @@
 
 ##### 1. 主体分配
 
-【图】
+![目标主体分配](https://gitee.com/MochiQ/req_imgs/raw/master/%E7%9B%AE%E6%A0%87%E4%B8%BB%E4%BD%93%E5%88%86%E9%85%8D.jpg)
+
+主体放大图：
+
+<img src="https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217095054114.png" alt="image-20201217095054114" style="zoom:80%;" /><img src="https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217095428065.png" alt="image-20201217095428065" style="zoom:80%;" /><img src="https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217095443736.png" alt="image-20201217095443736" style="zoom:80%;" /><img src="https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217095456262.png" alt="image-20201217095456262" style="zoom:80%;" /><img src="https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217095534250.png" alt="image-20201217095534250" style="zoom:80%;" /><img src="https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217095552033.png" alt="image-20201217095552033" style="zoom:80%;" /><img src="https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217095612957.png" alt="image-20201217095612957" style="zoom:80%;" />
+
+**文字分析：**
+
+合作方：提供娱乐版块服务功能接口
+
+运维人员：优质用户的发掘与签约，平台线上下活动的策划发起，平台发帖制度制定维护
+
+用户：使用平台功能，活跃于兴趣交流小组和兴趣课程小组
+
+审核监管人员：审核用户发帖内容，监管平台用户行为
+
+人工客服团队：提供人工语音资讯服务
+
+老年心理专家：参与设计开发用户交互
+
+开发人员：研发平台所需资源、技术内容
+
+
 
 ##### 2. 操作实现
 
-【图】
+![目标操作实现](https://gitee.com/MochiQ/req_imgs/raw/master/%E7%9B%AE%E6%A0%87%E6%93%8D%E4%BD%9C%E5%AE%9E%E7%8E%B0.jpg)
+
+**增强老年人与子女的情感纽带版块：**
+
+![image-20201217104921503](https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217104921503.png)
+
+**娱乐版块：**
+
+![image-20201217105035532](https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217105035532.png)
+
+
+
+**兴趣交流空间版块：**
+
+![image-20201217105148003](https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217105148003.png)
+
+
+
+**互联网应用教程版块：**
+
+![image-20201217105237120](https://gitee.com/MochiQ/req_imgs/raw/master/image-20201217105237120.png)
+
+
 
 ## 五、项目的前景与范围
 
