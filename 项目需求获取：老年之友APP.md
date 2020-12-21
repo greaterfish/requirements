@@ -601,13 +601,15 @@ BR13：在第一版应用上线之后的2个月内，签约用户数达到百人
 
 ![用例9](https://gitee.com/great_fish1/pictures/raw/master/20201220091438.png)
 
-针对问题P10的用例图：
+针对问题P11的用例图：
 
 ![用例10](https://gitee.com/great_fish1/pictures/raw/master/20201220091533.png)
 
-针对问题P11的用例图：![用例11](https://gitee.com/great_fish1/pictures/raw/master/20201220091535.png)
+针对问题P12的用例图：![用例11](https://gitee.com/great_fish1/pictures/raw/master/20201220091535.png)
 
-针对问题P12的用例图：![用例12](https://gitee.com/great_fish1/pictures/raw/master/20201220091538.png)
+针对问题P13的用例图：![用例12](https://gitee.com/great_fish1/pictures/raw/master/20201220091538.png)
+
+![系统用例图](https://images.gitee.com/uploads/images/2020/1221/231127_b5c48464_8381363.jpeg "系统用例图.jpg")
 
 ### 5、假设、依赖和限制
 
@@ -1101,6 +1103,17 @@ BR13：在第一版应用上线之后的2个月内，签约用户数达到百人
 | 被会见者观点 | 提出了部分需求，选择确定了解决方案                           |
 
 #### 原型
+
+![互联网应用教程1](https://images.gitee.com/uploads/images/2020/1221/231247_e185cf8f_8381363.png "互联网应用教程1.png")
+![互联网应用教程2](https://images.gitee.com/uploads/images/2020/1221/231305_72fd3043_8381363.png "互联网应用教程2.png")
+![互联网应用教程-客服](https://images.gitee.com/uploads/images/2020/1221/231317_f9d99108_8381363.png "互联网应用教程-客服.png")
+![兴趣专区](https://images.gitee.com/uploads/images/2020/1221/231330_67876b4e_8381363.png "兴趣专区1.png")
+![兴趣专区-我的小组](https://images.gitee.com/uploads/images/2020/1221/231343_9f239180_8381363.png "兴趣专区-我的小组.png")
+![兴趣专区-兴趣课程](https://images.gitee.com/uploads/images/2020/1221/231354_d9e2f00f_8381363.png "兴趣专区-兴趣课程.png")
+![兴趣专区-兴趣课程2](https://images.gitee.com/uploads/images/2020/1221/231406_34c2c499_8381363.png "兴趣专区-兴趣课程2.png")
+![娱乐活动](https://images.gitee.com/uploads/images/2020/1221/231420_b02c5ef7_8381363.png "娱乐活动.png")
+![子女端](https://images.gitee.com/uploads/images/2020/1221/231439_977eb395_8381363.png "子女端.png")
+![管理端](https://images.gitee.com/uploads/images/2020/1221/231234_c60e1c44_8381363.png "管理端.png")
 
 ### 需求文档交流阶段
 
