@@ -579,7 +579,7 @@ BR13：在第一版应用上线之后的2个月内，签约用户数达到百人
 
 针对问题P4的用例图：
 
-![image-20201219195108110](https://gitee.com/MochiQ/req_imgs/raw/master/image-20201219195108110.png)
+![image-20201220155311268](https://gitee.com/MochiQ/req_imgs/raw/master/image-20201220155311268.png)
 
 针对问题P5的用例图：
 
