@@ -26,7 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e45ce58-9388-49ff-bf36-ec92a41d5d7b" name="Default Changelist" comment="系统用例图更新" />
+    <list default="true" id="3e45ce58-9388-49ff-bf36-ec92a41d5d7b" name="Default Changelist" comment="需求规格说明">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/需求规格说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/需求规格说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/项目需求获取：老年之友APP.md" beforeDir="false" afterPath="$PROJECT_DIR$/项目需求获取：老年之友APP.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +45,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -95,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609073824320</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="需求规格说明">
+      <created>1609506758902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609506758902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -134,17 +147,26 @@
     <MESSAGE value="面谈5+用户需求" />
     <MESSAGE value="个别用例修改" />
     <MESSAGE value="系统用例图更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="系统用例图更新" />
+    <MESSAGE value="需求规格说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="需求规格说明" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609073826451">
+    <state x="165" y="170" key="FileChooserDialogImpl" timestamp="1611027345205">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609073826451" />
-    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609072490316">
+    <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611027345205" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609506761248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609072490316" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609506761248" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611068579357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1611068579357" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611052183934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611052183934" />
   </component>
   <component name="masterDetails">
     <states>
